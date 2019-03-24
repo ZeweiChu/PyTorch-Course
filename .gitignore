@@ -1,1 +1,4 @@
 notebooks/.ipynb_checkpoints/*
+notebooks/fashion_mnist_data/*
+notebooks/mnist_data/*
+notebooks/mnist_cnn.pt 
