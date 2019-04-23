@@ -1,9 +1,0 @@
-notebooks/.ipynb_checkpoints/*
-notebooks/fashion_mnist_data/*
-notebooks/mnist_data/*
-notebooks/mnist_cnn.pt 
-notebooks/live
-notebooks/adult
-notebooks/text8
-notebooks/large_movie_review_dataset
-notebooks/connect_to_ssh.sh
