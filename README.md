@@ -8,5 +8,5 @@
 A PyTorch tutorial for Julyedu.com
 
 褚则伟
-
+zeweichu@gmail.com
 
